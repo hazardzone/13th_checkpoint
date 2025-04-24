@@ -1,2 +1,4 @@
 # 13th_checkpoint
-GoMyCode
+Suffix Array 
+
+Bitmask
